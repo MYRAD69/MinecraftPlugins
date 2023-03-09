@@ -1,0 +1,6 @@
+name: ServerPlugin
+version: '${project.version}'
+main: me.myrad.serverplugin.serverplugin.ServerPlugin
+api-version: 1.16
+authors: [ MYRAD_ ]
+description: The plugins for Myrad's server

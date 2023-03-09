@@ -1,0 +1,5 @@
+me\myrad\myplugin\myplugin\commands\DieCommand.class
+me\myrad\myplugin\myplugin\listeners\FireMan.class
+me\myrad\myplugin\myplugin\listeners\PlayerJoin.class
+me\myrad\myplugin\myplugin\listeners\RedWoolBreak.class
+me\myrad\myplugin\myplugin\MyPlugin.class

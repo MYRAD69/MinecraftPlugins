@@ -1,0 +1,22 @@
+name: MyPlugin
+version: '${project.version}'
+main: me.myrad.myplugin.myplugin.MyPlugin
+api-version: 1.16
+authors: [ MYRAD_ ]
+description: My Plugin
+commands:
+  die:
+    description: An easy way to kys
+    usage: /<command>
+  checkf:
+    description: Just to check the plugins
+    usage: /<command>
+  checks:
+    description: Just to check the plugins number 2
+    usage: /<command>
+  fireon:
+    description: Makes you da fireman
+    usage: /<command>
+  fireoff:
+    description: Makes you regular steve
+    usage: /<command>
